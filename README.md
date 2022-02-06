@@ -1,16 +1,13 @@
-# context_switcher
+# Group25 Software Engineering Project
 
-ContextSwitcher Windows App
+# ContextSwitcher
+ContextSwitcher lets you switch between your favourite programs in "context" groups with the press of only one hotkey.
 
-## Getting Started
+# Installation Guide
+Download the installer for ContextSwitcher v1.0.0 in "Releases" and run. Simple as that!
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Designed and developed by
+* https://github.com/aykutatmaca
+* https://github.com/sahnerkin
+* https://github.com/tyavas
+* https://github.com/aykutatmaca
