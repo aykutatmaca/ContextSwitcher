@@ -10,4 +10,4 @@ Designed and developed by
 * https://github.com/aykutatmaca
 * https://github.com/sahnerkin
 * https://github.com/tyavas
-* https://github.com/aykutatmaca
+* https://github.com/drummerkoala
